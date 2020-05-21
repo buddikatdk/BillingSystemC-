@@ -1,0 +1,12 @@
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\bin\Debug\Billing_system_sinhala.exe.config
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\bin\Debug\Billing_system_sinhala.exe
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\bin\Debug\Billing_system_sinhala.pdb
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\bin\Debug\Billing_system_sinhala.xml
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.vbprojAssemblyReference.cache
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.Form1.resources
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.Resources.resources
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.vbproj.GenerateResource.cache
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.vbproj.CoreCompileInputs.cache
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.exe
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.xml
+D:\projects\Billing System\Repos\Billing_system_sinhala\Billing_system_sinhala\obj\Debug\Billing_system_sinhala.pdb
